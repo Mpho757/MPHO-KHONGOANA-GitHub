@@ -21,16 +21,16 @@ I am constantly expanding my skills and knowledge in the field of data science, 
 [![Static Badge](https://img.shields.io/badge/Computational%20and%20Applied%20Mathematics-Specialization-%20?style=flat&logo=wits&color=blue)
 ](https://www.wits.ac.za/health/logo/)
 
-[![Static Badge](https://img.shields.io/badge/Formal%20Languages%20and%20Automata-Specialization-%20?style=flat&logo=wits&color=blue)
+[![Static Badge](https://img.shields.io/badge/Software%20Development%20|||-Specialization-%20?style=flat&logo=wits&color=blue)
+](https://www.wits.ac.za/health/logo/)
+
+[![Static Badge](https://img.shields.io/badge/Operating%20Systems%20and%20System%20Programming-Specialization-%20?style=flat&logo=wits&color=blue)
 ](https://www.wits.ac.za/health/logo/)
 
 [![Static Badge](https://img.shields.io/badge/Formal%20Languages%20and%20Automata-Specialization-%20?style=flat&logo=wits&color=blue)
 ](https://www.wits.ac.za/health/logo/)
 
-[![Static Badge](https://img.shields.io/badge/Formal%20Languages%20and%20Automata-Specialization-%20?style=flat&logo=wits&color=blue)
-](https://www.wits.ac.za/health/logo/)
-
-[![Static Badge](https://img.shields.io/badge/Formal%20Languages%20and%20Automata-Specialization-%20?style=flat&logo=wits&color=blue)
+[![Static Badge](https://img.shields.io/badge/Advance%20Analysis%20Of%20Algorithms%20|||-Specialization-%20?style=flat&logo=wits&color=blue)
 ](https://www.wits.ac.za/health/logo/)
 
 ## GitHub Analytics
