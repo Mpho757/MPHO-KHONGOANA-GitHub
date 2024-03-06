@@ -6,3 +6,4 @@ Welcome to my GitHub profile! I'm Mpho Khongoana, a Data science enthusiast with
 
 I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mpho757&theme=dark)](https://github.com/Mpho757)
