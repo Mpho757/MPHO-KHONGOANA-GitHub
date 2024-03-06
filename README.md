@@ -18,6 +18,18 @@ I am constantly expanding my skills and knowledge in the field of data science, 
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
 
 ## Courses
+[![Static Badge](https://img.shields.io/badge/Computational%20and%20Applied%20Mathematics-Specialization-%20?style=flat&logo=wits&color=blue)
+](https://www.wits.ac.za/health/logo/)
+
+[![Static Badge](https://img.shields.io/badge/Formal%20Languages%20and%20Automata-Specialization-%20?style=flat&logo=wits&color=blue)
+](https://www.wits.ac.za/health/logo/)
+
+[![Static Badge](https://img.shields.io/badge/Formal%20Languages%20and%20Automata-Specialization-%20?style=flat&logo=wits&color=blue)
+](https://www.wits.ac.za/health/logo/)
+
+[![Static Badge](https://img.shields.io/badge/Formal%20Languages%20and%20Automata-Specialization-%20?style=flat&logo=wits&color=blue)
+](https://www.wits.ac.za/health/logo/)
+
 [![Static Badge](https://img.shields.io/badge/Formal%20Languages%20and%20Automata-Specialization-%20?style=flat&logo=wits&color=blue)
 ](https://www.wits.ac.za/health/logo/)
 
