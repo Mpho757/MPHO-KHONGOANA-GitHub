@@ -18,6 +18,8 @@ I am constantly expanding my skills and knowledge in the field of data science, 
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
 
 ## Courses
+[![Static Badge](https://img.shields.io/badge/IBM%20AI%20Engineering-Specialization-%20?style=flat&logo=coursera&color=blue)
+](https://coursera.org/share/3f2294afb3c97b33d346dfc112ba7942)
 
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mpho757&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpho757&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mpho757&show_icons=true&theme=dark&utcOffset=8)](https://github.com/Mpho757)
