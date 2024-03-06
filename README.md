@@ -2,7 +2,7 @@
 # Mpho Khongoana
 ###  Data Science Enthusiast 
 
-Welcome to my GitHub profile! I'm Mpho Khongoana, a Data science enthusiast with a Computer Science degree from Wits University. Passionate about leveraging data-driven insights to solve real-world problems. Constantly exploring new techniques and technologies in machine learning, data visualization, and statistical analysis. Excited to collaborate on innovative projects and contribute to the data science community.
+Welcome to my GitHub profile! I'm Mpho Khongoana, a Data science enthusiast with a Computer Science degree from University of the Witwatersrand. Passionate about leveraging data-driven insights to solve real-world problems. Constantly exploring new techniques and technologies in machine learning, data visualization, and statistical analysis. Excited to collaborate on innovative projects and contribute to the data science community.
 
 I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
