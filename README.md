@@ -19,7 +19,7 @@ I am constantly expanding my skills and knowledge in the field of data science, 
 
 ## Courses
 [![Static Badge](https://img.shields.io/badge/Computational%20and%20Applied%20Mathematics-Specialization-%20?style=flat&logo=wits&color=blue)
-](https://r.search.yahoo.com/_ylt=AwrEr6fS8.hlm24vao9WBQx.;_ylu=c2VjA2ZwLWF0dHJpYgRzbGsDcnVybA--/RV=2/RE=1709794386/RO=11/RU=https%3a%2f%2fwww.iej.org.za%2four-funders%2f/RK=2/RS=WsvlcgL.kgE8gEtH53OIZhXVU8g-)
+](https://www.iej.org.za)
 
 [![Static Badge](https://img.shields.io/badge/Software%20Development%20|||-Specialization-%20?style=flat&logo=wits&color=blue)
 ](https://www.wits.ac.za/health/logo/)
